@@ -1,2 +1,5 @@
 # Computer-Science
-운영체제, 네트워크, 데이터베이스 공부 내용을 정리합니다
+
+Operating System (운영체제)
+
+2023.09.09~2023.09.12: [Process Synchronization](https://velog.io/@jieonyoo/CH6.-Process-Synchronization)https://velog.io/@jieonyoo/CH6.-Process-Synchronization
